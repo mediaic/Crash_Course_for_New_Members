@@ -26,7 +26,7 @@
 ## 07/11 (三) @ 博理112
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Practice (Python + OpenCV)|09:10-???|劉致廷(簡)||
+|Practice (Python + OpenCV)|09:10-???|劉致廷(簡)|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab)|
 
 ## 07/12 (四) @ 博理112
 |Topic|Time|Lecturer|Link|
