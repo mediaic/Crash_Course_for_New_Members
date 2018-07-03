@@ -12,7 +12,7 @@
 |---|:---:|:---:|:---:|
 |Presentation Skills|10:10-11:00|[吳柏辰](http://media.ee.ntu.edu.tw/personal/pcwu/)(簡)||
 |Paper Survey Skills|11:10-12:00|[塗偉志](https://sites.google.com/site/wctu1009/)(簡)||
-|Paper Generator|13:30-15:20|[楊存毅](http://shamangary.logdown.com/)(莊)||
+|Paper Generator|13:30-15:20|[楊存毅](http://shamangary.logdown.com/)(莊)、[許洸睿](https://www.citi.sinica.edu.tw/pages/kjhsu/)(莊)||
 |Git|15:30-16:20|(莊)||
 |Practice (Latex + Git)|16:30-???|(莊)||
 
