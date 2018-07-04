@@ -10,7 +10,7 @@
 ## 07/09 (一) @ 博理112
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Presentation Skills|10:10-11:00|[吳柏辰](http://media.ee.ntu.edu.tw/personal/pcwu/)(簡)||
+|Presentation Skills|10:10-11:00|[吳柏辰](http://media.ee.ntu.edu.tw/personal/pcwu/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/how_to_present.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/how_to_present.pdf)|
 |Paper Survey Skills|11:10-12:00|[塗偉志](https://sites.google.com/site/wctu1009/)(簡)||
 |Paper Generator|13:30-15:20|[楊存毅](http://shamangary.logdown.com/)(莊)、[許洸睿](https://www.citi.sinica.edu.tw/pages/kjhsu/)(莊)||
 |Git|15:30-16:20|(莊)||
@@ -20,8 +20,9 @@
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Introduction to Computer Vision|09:10-12:00|吳思憲(陳)||
-|Principles of Machine Learning|13:30-15:30|[吳柏辰](http://media.ee.ntu.edu.tw/personal/pcwu/)(簡)||
-|When ML Meets CV|16:00-18:00|吳致緯(簡)||
+|Matrix Calculus|13:30-14:00|[吳柏辰](http://media.ee.ntu.edu.tw/personal/pcwu/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/matrix_calculus.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/matrix_calculus.pdf)|
+|Principles of Machine Learning|14:10-16:10|[吳柏辰](http://media.ee.ntu.edu.tw/personal/pcwu/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/matrix_calculus.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/matrix_calculus.pdf)|
+|When ML Meets CV|16:20-18:00|吳致緯(簡)||
 
 ## 07/11 (三) @ 博理112
 |Topic|Time|Lecturer|Link|
