@@ -32,11 +32,13 @@
 ## 07/12 (四) @ 博理112
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Intro to Neural Networks + CNN|09:10-13:00|(王)||
-|Practice (Classification with NN)|14:00-???|[何宣逸](https://azuxmioy.github.io/)(王)||
+|Intro to Neural Networks + CNN|09:10-12:00|(王)||
+|Training Neural Networks I|13:20-14:20|(王)||
+|Practice (Classification with NN)|14:30-???|[何宣逸](https://azuxmioy.github.io/)(王)||
 
 ## 07/13 (五) @ 博理112
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Training Neural Networks|09:10-13:00|(王)||
-|Practice (Segmentation with NN)|14:00-???|[何宣逸](https://azuxmioy.github.io/)(王)||
+|Detection + Segmentation|09:10-12:00|(王)||
+|Training Neural Networks II|13:20-14:20|(王)||
+|Practice (Segmentation with NN)|14:30-???|[何宣逸](https://azuxmioy.github.io/)(王)||
