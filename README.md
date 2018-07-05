@@ -39,5 +39,5 @@
 ## 07/13 (五) @ 博理112
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|DLCV Application|09:10-12:00|(王)||
+|DLCV Application|09:10-12:00|[劉彥成](https://ycliu93.github.io/)(王)||
 |Practice (Segmentation with NN)|13:30-???|陳尚甫(王)|[GitHub](https://github.com/mediaic/DL_Practice)|
