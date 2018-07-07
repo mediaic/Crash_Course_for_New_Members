@@ -13,8 +13,8 @@
 |Presentation Skills|10:10-11:00|[吳柏辰](http://media.ee.ntu.edu.tw/personal/pcwu/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/how_to_present.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/how_to_present.pdf)|
 |Paper Survey Skills|11:10-12:00|[塗偉志](https://sites.google.com/site/wctu1009/)(簡)|[PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/paper_survey_skills.pdf)|
 |Paper Generator|13:30-15:20|[楊存毅](http://shamangary.logdown.com/)(莊)、[許洸睿](https://www.citi.sinica.edu.tw/pages/kjhsu/)(莊)||
-|Git|15:30-16:20|(莊)||
-|Practice (Latex + Git)|16:30-???|(莊)||
+|Git|15:30-16:20|李名揚(莊)、蔡玄中(莊)||
+|Practice (Latex + Git)|16:30-???|[陳育聖](https://www.cmlab.csie.ntu.edu.tw/~nothinglo/)(莊)、陳聖曄(莊)||
 
 ## 07/10 (二) @ 博理112
 |Topic|Time|Lecturer|Link|
