@@ -22,7 +22,7 @@
 |Introduction to Computer Vision|09:10-12:00|吳思憲(陳)||
 |Matrix Calculus|13:10-13:40|[吳柏辰](http://media.ee.ntu.edu.tw/personal/pcwu/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/matrix_calculus.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/matrix_calculus.pdf)|
 |Principles of Machine Learning|13:50-15:50|[吳柏辰](http://media.ee.ntu.edu.tw/personal/pcwu/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/principles_of_machine_learning.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/principles_of_machine_learning.pdf)|
-|When ML Meets CV|16:00-18:00|吳致緯(簡)||
+|When ML Meets CV|16:00-18:00|吳致緯(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/when_ml_meets_cv.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/when_ml_meets_cv.pdf)|
 
 ## 07/11 (三) @ 博理112
 |Topic|Time|Lecturer|Link|
