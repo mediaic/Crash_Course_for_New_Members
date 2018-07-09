@@ -11,7 +11,7 @@
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Presentation Skills|10:10-11:00|[吳柏辰](http://media.ee.ntu.edu.tw/personal/pcwu/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/how_to_present.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/how_to_present.pdf)|
-|Paper Survey Skills|11:10-12:00|[塗偉志](https://sites.google.com/site/wctu1009/)(簡)|[PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/paper_survey_skills.pdf)|
+|Paper Survey Skills|11:10-12:00|[塗偉志](https://sites.google.com/site/wctu1009/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/paper_survey_skills.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/paper_survey_skills.pdf)|
 |Introduction to Latex|13:30-14:20|[許洸睿](https://www.citi.sinica.edu.tw/pages/kjhsu/)(莊)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/introduction_to_latex.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/introduction_to_latex.pdf), [ZIP](http://media.ee.ntu.edu.tw/crash_course/2018/dl/introduction_to_latex_example.zip)|
 |A GUI of Latex: LyX|14:30-15:20|[楊存毅](http://shamangary.logdown.com/)(莊)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/a_gui_of_latex_lyx.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/a_gui_of_latex_lyx.pdf)|
 |Git|15:30-16:20|[李明揚](http://www.cmlab.csie.ntu.edu.tw/~limingyang)(莊)、蔡玄中(莊)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/git.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/git.pdf)|
