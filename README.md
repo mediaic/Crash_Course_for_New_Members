@@ -12,7 +12,7 @@
 |---|:---:|:---:|:---:|
 |Presentation Skills|10:10-11:00|[吳柏辰](http://media.ee.ntu.edu.tw/personal/pcwu/)(簡)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/how_to_present.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/how_to_present.pdf)|
 |Paper Survey Skills|11:10-12:00|[塗偉志](https://sites.google.com/site/wctu1009/)(簡)|[PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/paper_survey_skills.pdf)|
-|Introduction to Latex|13:30-14:20|[許洸睿](https://www.citi.sinica.edu.tw/pages/kjhsu/)(莊)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/introduction_to_latex.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/introduction_to_latex.pdf)|
+|Introduction to Latex|13:30-14:20|[許洸睿](https://www.citi.sinica.edu.tw/pages/kjhsu/)(莊)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/introduction_to_latex.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/introduction_to_latex.pdf), [ZIP](http://media.ee.ntu.edu.tw/crash_course/2018/dl/introduction_to_latex_example.zip)|
 |Paper Generator|14:30-15:20|[楊存毅](http://shamangary.logdown.com/)(莊)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/paper_generator.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/paper_generator.pdf)|
 |Git|15:30-16:20|[李明揚](http://www.cmlab.csie.ntu.edu.tw/~limingyang)(莊)、蔡玄中(莊)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/git.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/git.pdf)|
 |Practice (Latex + Git)|16:30-???|[陳育聖](https://www.cmlab.csie.ntu.edu.tw/~nothinglo/)(莊)、[汪智祥](http://homepage.ntu.edu.tw/~r06944046)(莊)|[Overleaf](https://www.overleaf.com/read/mtqmdqhyfrcn)|
