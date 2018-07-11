@@ -35,7 +35,7 @@
 |---|:---:|:---:|:---:|
 |Intro to Neural Networks + CNN|09:10-11:00|[葉鈺濙](https://yuyingyeh.github.io/)(王)||
 |Training Neural Networks|11:10-13:00|[李宇哲](https://yujheli.github.io/)(王)、劉彥廷(王)||
-|Practice (Classification with NN)|14:30-???|[何宣逸](https://azuxmioy.github.io/)(王)|[GitHub](https://github.com/mediaic/DL_Practice)|
+|Practice (Classification with NN)|14:30-???|[何宣逸](https://azuxmioy.github.io/)(王)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/nn_practice_1.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/nn_practice_1.pdf), [GitHub](https://github.com/mediaic/DL_Practice)|
 
 ## 07/13 (五) @ 博理112
 |Topic|Time|Lecturer|Link|
