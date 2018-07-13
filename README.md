@@ -40,5 +40,5 @@
 ## 07/13 (五) @ 博理112
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|DLCV Application|10:00-12:00|[劉彥成](https://ycliu93.github.io/)(王)|[PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/dlcv_app.pdf)|
+|DLCV Application|10:00-12:00|[劉彥成](https://ycliu93.github.io/)(王)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2018/dl/dlcv_app.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2018/dl/dlcv_app.pdf)|
 |Practice (Segmentation with NN)|13:30-???|陳尚甫(王)|[GitHub](https://github.com/mediaic/DL_Practice)|
