@@ -4,8 +4,8 @@
 1. [陳良基老師實驗室](http://video.ee.ntu.edu.tw/)
 
 ## 歷年課程
-### 2018
-[DL crash course](2018_DL_Crash_Course.md), [VLSI crash course](2018_VLSI_Crash_Course.md)
+
++ **2018** : [DL crash course](2018_DL_Crash_Course.md), [VLSI crash course](2018_VLSI_Crash_Course.md)
 
 ## 07/15 (一) @ 博理103
 |Topic|Time|Lecturer|Link|
