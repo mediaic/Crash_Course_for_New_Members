@@ -26,7 +26,7 @@
 ## 07/17 (三) @ 博理114
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Generative Advesarial Network (GAN)|09:10-12:00|劉致廷|[PPT](), [PDF]()|
+|Generative Adversarial Network (GAN)|09:10-12:00|劉致廷|[PPT](), [PDF]()|
 |Hardware Basics & Verilog |13:30-14:20|呂宏璋|[PPT](), [PDF]()|
 |Hardware Architecture Design|14:30-15:20|曹洋彬|[PPT](), [PDF]()|
 |Simulation & Verification|15:30-16:20|曹洋彬|[PPT](), [PDF]()|
