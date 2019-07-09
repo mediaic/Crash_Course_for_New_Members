@@ -5,8 +5,7 @@
 
 ## 歷年課程
 ### 2018
-[DL crash course](2018_DL_Crash_Course.md)
-[VLSI crash course](2018_VLSI_Crash_Course.md)
+[DL crash course](2018_DL_Crash_Course.md), [VLSI crash course](2018_VLSI_Crash_Course.md)
 
 ## 07/15 (一) @ 博理103
 |Topic|Time|Lecturer|Link|
