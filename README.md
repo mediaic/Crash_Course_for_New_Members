@@ -28,7 +28,7 @@
 |Simulation & Verification|15:30-16:20|曹洋彬|[PPT](), [PDF]()|
 |Practice (RTL)|16:30-???|曹洋彬|[PPT](), [PDF]()|
 
-## 07/18 (五) @ 博理114
+## 07/18 (四) @ 博理114
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Hardware Synthesize|09:10-10:00|黃立洋|[PPT](), [PDF]()|
