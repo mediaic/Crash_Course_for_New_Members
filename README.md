@@ -12,7 +12,7 @@
 |---|:---:|:---:|:---:|
 |Paper Survey Skills|11:10-12:00|[塗偉志](https://sites.google.com/site/wctu1009/)|[PPT](), [PDF]()|
 |Introduction to Computer Vision|13:30-15:20|吳思憲|[PPT](), [PDF]()|
-|Practice (Python + OpenCV)|15:30-???|吳禹澄|[GitHub]()|
+|Practice (Python + OpenCV)|15:30-???|吳禹澄|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab)|
 
 ## 07/16 (二) @ 博理114
 |Topic|Time|Lecturer|Link|
