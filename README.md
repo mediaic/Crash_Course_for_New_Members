@@ -21,7 +21,7 @@
 |Training Neural Networks|11:10-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/training_tips.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/training_tips.pdf)|
 |DLCV applications|13:30-14:20|吳致緯|[PPT](), [PDF]()|
 |Pytorch tutorial|14:30-15:20|林均澤|[PPT](), [PDF]()|
-|Practice (DL for CV)|15:30-???|林均澤|[PPT](), [PDF]()|
+|Practice (DL for CV)|15:30-???|林均澤|[GitHub]()|
 
 ## 07/17 (三) @ 博理114
 |Topic|Time|Lecturer|Link|
