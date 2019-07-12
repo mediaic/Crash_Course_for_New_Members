@@ -36,6 +36,6 @@
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Hardware Synthesize|09:10-10:00|黃立洋|[PPT](), [PDF]()|
-|Automatic Place and Route|10:10-11:00|章孟治|[PPT](), [PDF]()|
+|Automatic Place and Route|10:10-11:00|章孟治|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/APR.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/APR.pdf)|
 |SoC Introduction|11:10-12:00|曹洋彬|[PPT](), [PDF]()|
 |Practice (Synthesize & APR)|13:30-???|曹洋彬|[GitHub]()|
