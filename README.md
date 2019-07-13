@@ -11,7 +11,7 @@
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Paper Survey Skills|11:10-12:00|[塗偉志](https://sites.google.com/site/wctu1009/)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/paper_survey_skills_2019.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/paper_survey_skills_2019.pdf)|
-|Introduction to Computer Vision|13:30-15:20|吳思憲|[PPT](), [PDF]()|
+|Introduction to Computer Vision|13:30-15:20|吳思憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/Introduction_to_CV_Ben.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/Introduction_to_CV_Ben.pdf)|
 |Practice (Python + OpenCV)|15:30-???|吳禹澄|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab)|
 
 ## 07/16 (二) @ 博理114
