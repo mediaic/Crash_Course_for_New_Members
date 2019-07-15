@@ -37,5 +37,5 @@
 |---|:---:|:---:|:---:|
 |Hardware Synthesize|09:10-10:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/VLSI-Crash-Course-Synthesis_2019.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/VLSI-Crash-Course-Synthesis_2019.pdf)|
 |Automatic Place and Route|10:10-11:00|章孟治|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/APR.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/APR.pdf)|
-|SoC Introduction|11:10-12:00|曹洋彬|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/Soc_Introduction.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/Soc_Introduction.pdf)|
+|SoC Introduction|11:10-12:00|曹洋彬|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/SoC_Introduction.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/SoC_Introduction.pdf)|
 |Practice (Synthesize & APR)|13:30-???|曹洋彬|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
