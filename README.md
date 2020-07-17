@@ -20,7 +20,7 @@
 |---|:---:|:---:|:---:|
 |Intro to Deep Learning|10:00-11:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2020/Intro_DL.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2020/Intro_DL.pdf)|
 |Training Neural Networks|11:10-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2020/training_tips.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2020/training_tips.pdf)|
-|DLCV applications|13:10-14:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2020/DLCV.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2030/DLCV.pdf)|
+|DLCV applications|13:10-14:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2020/DLCV.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2020/DLCV.pdf)|
 |Pytorch tutorial|14:10-15:00|陳在賢|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/PyTorch_Tutorial.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/PyTorch_Tutorial.pdf)|
 |Practice (DL for CV)|15:10-???|陳在賢|[GitHub](https://github.com/mediaic/DL_Practice)|
 
