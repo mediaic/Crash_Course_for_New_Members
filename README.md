@@ -10,7 +10,7 @@
 ## 07/20 (一) @ 博理211
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Paper Survey Skills|11:10-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/paper_survey_skills_2019.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/paper_survey_skills_2019.pdf)|
+|Paper Survey Skills|11:10-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2020/paper_survey_skills_2020.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2020/paper_survey_skills_2020.pdf)|
 |Computer Vision: Filter & Feature|13:10-14:00|黃立洋|[PPT](), [PDF]()|
 |Computer Vision: Geometry 101|14:10-15:00|黃立洋|[PPT](), [PDF]()|
 |Practice (OpenCV)|15:10-???|吳禹澄|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab)|
@@ -18,16 +18,16 @@
 ## 07/21 (二) @ 博理212
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Intro to Neural Networks + CNN|10:00-11:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/Intro_NN.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/Intro_NN.pdf)|
-|Training Neural Networks|11:10-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/training_tips.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/training_tips.pdf)|
-|DLCV applications|13:10-14:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/DLCV-Application.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/DLCV-Application.pdf)|
+|Intro to Deep Learning|10:00-11:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2020/Intro_DL.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2020/Intro_DL.pdf)|
+|Training Neural Networks|11:10-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2020/training_tips.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2020/training_tips.pdf)|
+|DLCV applications|13:10-14:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2020/DLCV.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2030/DLCV.pdf)|
 |Pytorch tutorial|14:10-15:00|陳在賢|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/PyTorch_Tutorial.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/PyTorch_Tutorial.pdf)|
 |Practice (DL for CV)|15:10-???|陳在賢|[GitHub](https://github.com/mediaic/DL_Practice)|
 
 ## 07/22 (三) @ 博理217
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Generative Adversarial Network (GAN)|09:30-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/GAN.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/GAN.pdf)|
+|Generative Adversarial Network (GAN)|09:30-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2020/GAN.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2020/GAN.pdf)|
 |Verilog Review and Advance|13:10-14:00|呂宏璋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/Hardware_Basic.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/Hardware_Basic.pdf)|
 |Simulation & Verification|14:10-15:00|池翊忞|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/RTL_verification.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/RTL_verification.pdf)|
 |Practice (RTL)|15:10-???|曹洋彬|[GitHub](https://github.com/mediaic/VLSI_Lab1), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/VLSI_Lab.pdf)|
