@@ -1,10 +1,11 @@
-# 2020 新生訓練課程 (2019 Crash Courses for New Members)
+# 2019 新生訓練課程 (2019 Crash Courses for New Members)
 聯合實驗室名單:
 1. [簡韶逸老師實驗室](http://media.ee.ntu.edu.tw/)
+1. [陳良基老師實驗室](http://video.ee.ntu.edu.tw/)
 
 ## 歷年課程
 
-+ **2018** : [DL crash course](./legacy/2018_DL_Crash_Course.md), [VLSI crash course](./legacy/2018_VLSI_Crash_Course.md)
++ **2018** : [DL crash course](../2018/2018_DL_Crash_Course.md), [VLSI crash course](../2018/2018_VLSI_Crash_Course.md)
 
 ## 07/15 (一) @ 博理103
 |Topic|Time|Lecturer|Link|
