@@ -1,19 +1,21 @@
-# 2020 新生訓練課程 (2019 Crash Courses for New Members)
+# 2020 新生訓練課程 (2020 Crash Courses for New Members)
 聯合實驗室名單:
-1. [簡韶逸老師實驗室](http://media.ee.ntu.edu.tw/)
+[簡韶逸老師實驗室](http://media.ee.ntu.edu.tw/)
 
 ## 歷年課程
 
-+ **2018** : [DL crash course](./legacy/2018_DL_Crash_Course.md), [VLSI crash course](./legacy/2018_VLSI_Crash_Course.md)
++ **2018** : [DL crash course](./2018/2018_DL_Crash_Course.md), [VLSI crash course](./2018/2018_VLSI_Crash_Course.md)
++ **2019** : [Crash_course](./2019/README.md)
 
-## 07/15 (一) @ 博理103
+## 07/20 (一) @ 博理211
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Paper Survey Skills|11:10-12:00|[塗偉志](https://sites.google.com/site/wctu1009/)|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/paper_survey_skills_2019.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/paper_survey_skills_2019.pdf)|
-|Introduction to Computer Vision|13:30-15:20|吳思憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/Introduction_to_CV_Ben.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/Introduction_to_CV_Ben.pdf)|
-|Practice (Python + OpenCV)|15:30-???|吳禹澄|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab)|
+|Paper Survey Skills|11:10-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/paper_survey_skills_2019.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/paper_survey_skills_2019.pdf)|
+|Computer Vision: Filter & Feature|13:10-14:00|黃立洋|[PPT](), [PDF]()|
+|Computer Vision: Geometry 101|14:10-15:00|黃立洋|[PPT](), [PDF]()|
+|Practice (OpenCV)|15:10-???|吳禹澄|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab)|
 
-## 07/16 (二) @ 博理114
+## 07/20 (二) @ 博理114
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Intro to Neural Networks + CNN|09:10-11:00|Jan|[PPT](http://media.ee.ntu.edu.tw/crash_course/2019/Intro_NN.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2019/Intro_NN.pdf)|
