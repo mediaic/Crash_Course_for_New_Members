@@ -12,7 +12,7 @@
 |---|:---:|:---:|:---:|
 |Paper Survey Skills|11:10-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2020/paper_survey_skills_2020.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2020/paper_survey_skills_2020.pdf)|
 |Computer Vision: Filter & Feature|13:10-14:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2020/cv_filter_feature.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2020/cv_filter_feature.pdf)|
-|Computer Vision: Geometry 101|14:10-15:00|黃立洋|[PPT](), [PDF]()|
+|Computer Vision: Geometry 101|14:10-15:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2020/cv_geometry.pptx), [PDF](http://media.ee.ntu.edu.tw/crash_course/2020/cv_geometry.pdf)|
 |Practice (OpenCV)|15:10-???|吳禹澄|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab)|
 
 ## 07/21 (二) @ 博理212
