@@ -40,7 +40,7 @@
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Keynote|09:00-09:30|Suk Lee(TSMC)| |
-|Recent Advances on EDA|09:30-10:00|Suk Lee(TSMC)| |
+|Recent Advances on EDA|09:30-10:00| | |
 |Intro to Deep Learning|10:10-11:00|蔡佩蓁| |
 |Training Neural Networks|11:10-12:00|劉致廷| |
 |DLCV applications|13:10-14:00|劉致廷| |
