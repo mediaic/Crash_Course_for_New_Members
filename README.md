@@ -34,7 +34,8 @@
 |---|:---:|:---:|:---:|
 |Keynote|11:00-12:00|Tihao Chiang(Ambarella Taiwan Ltd.)| |
 |Practice (RTL)|13:10-14:00|林秉誼| |
-|oral presentation or Practice (RTL) |14:00-17:30|林秉誼| |
+|VLSI oral: AI Accelerator |14:00-15:30| | |
+|VLSI oral: Multimedia Systems Implementation and Application |15:45-17:15| | |
 
 ## 08/06 (五) @ ????
 |Topic|Time|Lecturer|Link|
