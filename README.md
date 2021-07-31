@@ -8,6 +8,9 @@
 + **2019** : [Crash_course](./2019/README.md)
 + **2020** : [Crash_course](./2020/README.md)
 
+## 線上連結
++ **google meet** : [nuq-odqa-tuc](https://meet.google.com/nuq-odqa-tuc)
+
 ## 08/02 (一) @ ????
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
