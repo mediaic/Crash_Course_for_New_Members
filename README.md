@@ -18,16 +18,16 @@
 |實驗室活動介紹 & 工作分配|10:30-11:00|黃聖竣| |
 |Paper Survey Skills|11:10-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2021/paper_survey_skills_2021.pptx)|
 |Computer Vision: Filter & Feature|13:10-14:00|黃聖竣|[PPT](http://media.ee.ntu.edu.tw/crash_course/2021/cv_filter_feature.pptx)|
-|Computer Vision: Geometry 101|14:10-15:00|黃立洋| |
+|Computer Vision: Geometry 101|14:10-15:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2021/cv_geometry.pptx)|
 |Practice (OpenCV)|15:10-???|楊凱翔|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab)|
 
 ## 08/03 (二) @ google meet
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Verilog Review and Advance|10:10-11:00|黃紹軒|[PPT](http://media.ee.ntu.edu.tw/crash_course/2021/2021_hardware_basic.pptx)|
-|Simulation & Verification|11:10-12:00|黃立洋| |
-|Hardware Synthesize|13:10-14:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2021/SOC_Introduction_2021.pptx)|
-|SoC Introduction|14:10-15:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2021/Synthesis_2021.pptx)|
+|Simulation & Verification|11:10-12:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2021/rtl_verification.pptx)|
+|Hardware Synthesize|13:10-14:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2021/Synthesis_2021.pptx)|
+|SoC Introduction|14:10-15:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2021/SOC_Introduction_2021.pptx)|
 |Practice (RTL)|15:10-???|謝汶璁| |
 
 
