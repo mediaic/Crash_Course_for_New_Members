@@ -28,7 +28,7 @@
 |Simulation & Verification|11:10-12:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2021/rtl_verification.pptx)|
 |Hardware Synthesize|13:10-14:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2021/Synthesis_2021.pptx)|
 |SoC Introduction|14:10-15:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2021/SOC_Introduction_2021.pptx)|
-|Practice (RTL)|15:10-???|謝汶璁| |
+|Practice (RTL)|15:10-???|謝汶璁|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
 
 
 
