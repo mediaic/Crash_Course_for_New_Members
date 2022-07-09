@@ -1,4 +1,4 @@
-# 2021 新生訓練課程 (2021 Crash Courses for New Members)
+# 2022 新生訓練課程 (2022 Crash Courses for New Members)
 實驗室名單:
 [簡韶逸老師實驗室](http://media.ee.ntu.edu.tw/)
 
