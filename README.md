@@ -34,7 +34,7 @@
 |High Level Synthesis |10:10-12:00|翁華揚| |
 |VLSI oral: Advanced Neural Network Processors and Systems |13:30-14:30| | |
 |VLSI oral: Artificial Intelligence Circuits and Systems (I) |14:30-15:30| | |
-|Practice (RTL)|15:10-???|李可瀚|[GitHub]()|
+|Practice (HLS)|15:30-???|翁華揚|[GitHub]()|
 
 ## 08/04 (四) @ 博理215
 |Topic|Time|Lecturer|Link|
