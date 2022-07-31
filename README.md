@@ -17,16 +17,16 @@
 |Paper Survey Skills|11:10-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/paper_survey_skills_2022.pptx)|
 |Computer Vision: Filter & Feature|13:10-14:00|陳欣妤|[PPT]()|
 |Computer Vision: Geometry 101|14:10-15:00|李奕勳|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/Geometry_101.pptx)|
-|Practice (OpenCV)|15:10-???|楊凱翔|[GitHub](), [PPT](http://media.ee.ntu.edu.tw/crash_course/2022/python_opencv_lab_2022.pptx)|
+|Practice (OpenCV)|15:10-???|楊凱翔|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab), [PPT](http://media.ee.ntu.edu.tw/crash_course/2022/python_opencv_lab_2022.pptx)|
 
 ## 08/02 (二) @ 博理215
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Verilog Review and Advance|10:10-11:00|黃紹軒|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_hardware_basic.pptx)|
 |Simulation & Verification|11:10-12:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/rtl_verification.pptx)|
-|Hardware Synthesize|13:10-14:00|李可瀚|[PPT]()|
+|Hardware Synthesize|13:10-14:00|李可瀚||
 |SoC Introduction|14:10-15:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/SOC_Introduction_2022.pptx)|
-|Practice (RTL)|15:10-???|李可瀚|[GitHub]()|
+|Practice (RTL)|15:10-???|李可瀚||
 
 ## 08/03 (三) @ 博理216
 |Topic|Time|Lecturer|Link|
@@ -40,8 +40,8 @@
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Intro to Deep Learning|10:10-11:00|洪愷縴|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_Intro_DL.pptx)|
-|Training Neural Networks|11:10-12:00|徐子晴|[PPT]()|
-|DLCV applications|13:10-14:00|劉子傑|[PPT]()|
-|Pytorch tutorial|14:10-15:00|陳昱仁|[PPT]()|
-|Practice (DL for CV)|15:10-???|陳昱仁|[GitHub]()|
+|Training Neural Networks|11:10-12:00|徐子晴||
+|DLCV applications|13:10-14:00|劉子傑||
+|Pytorch tutorial|14:10-15:00|陳昱仁||
+|Practice (DL for CV)|15:10-???|陳昱仁||
 
