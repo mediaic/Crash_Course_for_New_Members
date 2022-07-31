@@ -13,33 +13,33 @@
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |老師開場|09:30-10:20|老師| |
-|實驗室活動介紹 & 工作分配|10:30-11:00|李奕勳| |
-|Paper Survey Skills|11:10-12:00|劉致廷|[PPT]()|
+|實驗室活動介紹 & 工作分配|10:30-11:00|李奕勳|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_intro_lab.pptx)|
+|Paper Survey Skills|11:10-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/paper_survey_skills_2022.pptx)|
 |Computer Vision: Filter & Feature|13:10-14:00|陳欣妤|[PPT]()|
-|Computer Vision: Geometry 101|14:10-15:00|李奕勳|[PPT]()|
-|Practice (OpenCV)|15:10-???|楊凱翔|[GitHub]()|
+|Computer Vision: Geometry 101|14:10-15:00|李奕勳|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/Geometry_101.pptx)|
+|Practice (OpenCV)|15:10-???|楊凱翔|[GitHub](), [PPT](http://media.ee.ntu.edu.tw/crash_course/2022/python_opencv_lab_2022.pptx)|
 
 ## 08/02 (二) @ 博理215
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Verilog Review and Advance|10:10-11:00|黃紹軒|[PPT]()|
-|Simulation & Verification|11:10-12:00|黃立洋|[PPT]()|
+|Verilog Review and Advance|10:10-11:00|黃紹軒|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_hardware_basic.pptx)|
+|Simulation & Verification|11:10-12:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/rtl_verification.pptx)|
 |Hardware Synthesize|13:10-14:00|李可瀚|[PPT]()|
-|SoC Introduction|14:10-15:00|喻柏憲|[PPT]()|
+|SoC Introduction|14:10-15:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/SOC_Introduction_2022.pptx)|
 |Practice (RTL)|15:10-???|李可瀚|[GitHub]()|
 
 ## 08/03 (三) @ 博理216
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|High Level Synthesis |10:10-12:00|翁華揚| |
+|High Level Synthesis |10:10-12:00|翁華揚|[PDF](http://media.ee.ntu.edu.tw/crash_course/2022/HLS101_v2.pdf)|
 |VLSI oral: Advanced Neural Network Processors and Systems |13:30-14:30| | |
 |VLSI oral: Artificial Intelligence Circuits and Systems (I) |14:30-15:30| | |
-|Practice (HLS)|15:30-???|翁華揚|[GitHub]()|
+|Practice (HLS)|15:30-???|翁華揚|[GitHub_1](https://github.com/mediaic/boledu-hls-course-lab_1.git), [GitHub_2](https://github.com/mediaic/boledu-hls-course-lab_2.git), [GitHub_3](https://github.com/mediaic/boledu-hls-course-lab_3.git)|
 
 ## 08/04 (四) @ 博理215
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Intro to Deep Learning|10:10-11:00|洪愷縴|[PPT]()|
+|Intro to Deep Learning|10:10-11:00|洪愷縴|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_Intro_DL.pptx)|
 |Training Neural Networks|11:10-12:00|徐子晴|[PPT]()|
 |DLCV applications|13:10-14:00|劉子傑|[PPT]()|
 |Pytorch tutorial|14:10-15:00|陳昱仁|[PPT]()|
