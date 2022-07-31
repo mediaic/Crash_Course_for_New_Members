@@ -15,8 +15,8 @@
 |老師開場|09:30-10:20|老師| |
 |實驗室活動介紹 & 工作分配|10:30-11:00|李奕勳|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_intro_lab.pptx)|
 |Paper Survey Skills|11:10-12:00|劉致廷|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/paper_survey_skills_2022.pptx)|
-|Computer Vision: Filter & Feature|13:10-14:00|陳欣妤|[PPT]()|
-|Computer Vision: Geometry 101|14:10-15:00|李奕勳|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/Geometry_101.pptx)|
+|Computer Vision: Filter & Feature|13:10-14:00|李奕勳|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/Filter_and_Feature.pptx)|
+|Computer Vision: Geometry 101|14:10-15:00|陳欣妤|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/Geometry_101.pptx)|
 |Practice (OpenCV)|15:10-???|楊凱翔|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab), [PPT](http://media.ee.ntu.edu.tw/crash_course/2022/python_opencv_lab_2022.pptx)|
 
 ## 08/02 (二) @ 博理215
@@ -42,6 +42,6 @@
 |Intro to Deep Learning|10:10-11:00|洪愷縴|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_Intro_DL.pptx)|
 |Training Neural Networks|11:10-12:00|徐子晴||
 |DLCV applications|13:10-14:00|劉子傑||
-|Pytorch tutorial|14:10-15:00|陳昱仁||
-|Practice (DL for CV)|15:10-???|陳昱仁||
+|Pytorch tutorial|14:10-15:00|陳昱仁|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/PyTorch_Tutorial.pptx)|
+|Practice (DL for CV)|15:10-???|陳昱仁|[GitHub](https://github.com/mediaic/DL_Practice)|
 
