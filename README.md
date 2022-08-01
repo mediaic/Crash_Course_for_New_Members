@@ -26,7 +26,7 @@
 |Simulation & Verification|11:10-12:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/rtl_verification.pptx)|
 |Hardware Synthesize|13:10-14:00|李可瀚||
 |SoC Introduction|14:10-15:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/SOC_Introduction_2022.pptx)|
-|Practice (RTL)|15:10-???|李可瀚||
+|Practice (RTL)|15:10-???|李可瀚|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
 
 ## 08/03 (三) @ 博理216
 |Topic|Time|Lecturer|Link|
@@ -41,7 +41,7 @@
 |---|:---:|:---:|:---:|
 |Intro to Deep Learning|10:10-11:00|洪愷縴|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_Intro_DL.pptx)|
 |Training Neural Networks|11:10-12:00|徐子晴||
-|DLCV applications|13:10-14:00|劉子傑||
+|DLCV applications|13:10-14:00|劉子傑|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_DLCV_application.pptx)|
 |Pytorch tutorial|14:10-15:00|陳昱仁|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/PyTorch_Tutorial.pptx)|
 |Practice (DL for CV)|15:10-???|陳昱仁|[GitHub](https://github.com/mediaic/DL_Practice)|
 
