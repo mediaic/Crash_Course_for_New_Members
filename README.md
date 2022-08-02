@@ -24,7 +24,7 @@
 |---|:---:|:---:|:---:|
 |Verilog Review and Advance|10:10-11:00|黃紹軒|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_hardware_basic.pptx)|
 |Simulation & Verification|11:10-12:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/rtl_verification.pptx)|
-|Hardware Synthesize|13:10-14:00|李可瀚||
+|Hardware Synthesize|13:10-14:00|李可瀚|[PDF](http://media.ee.ntu.edu.tw/crash_course/2022/2022_Logic_Synthesis.pdf)|
 |SoC Introduction|14:10-15:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/SOC_Introduction_2022.pptx)|
 |Practice (RTL)|15:10-???|李可瀚|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
 
@@ -40,7 +40,7 @@
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Intro to Deep Learning|10:10-11:00|洪愷縴|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_Intro_DL.pptx)|
-|Training Neural Networks|11:10-12:00|徐子晴||
+|Training Neural Networks|11:10-12:00|徐子晴|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_training_tips.pptx)|
 |DLCV applications|13:10-14:00|劉子傑|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_DLCV_application.pptx)|
 |Pytorch tutorial|14:10-15:00|陳昱仁|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/PyTorch_Tutorial.pptx)|
 |Practice (DL for CV)|15:10-???|陳昱仁|[GitHub](https://github.com/mediaic/DL_Practice)|
