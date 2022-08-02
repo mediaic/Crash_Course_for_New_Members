@@ -31,7 +31,7 @@
 ## 08/03 (三) @ 博理216
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|High Level Synthesis |10:10-12:00|翁華揚|[PDF](http://media.ee.ntu.edu.tw/crash_course/2022/HLS101_v2.pdf)|
+|High Level Synthesis |10:10-12:00|翁華揚|[PDF_1](http://media.ee.ntu.edu.tw/crash_course/2022/HLS101_v3.pdf), [PDF_2](http://media.ee.ntu.edu.tw/crash_course/2022/AMBA_HLS_LAB.pdf)|
 |VLSI oral: Advanced Neural Network Processors and Systems |13:30-14:30| | |
 |VLSI oral: Artificial Intelligence Circuits and Systems (I) |14:30-15:30| | |
 |Practice (HLS)|15:30-???|翁華揚|[GitHub_1](https://github.com/mediaic/boledu-hls-course-lab_1.git), [GitHub_2](https://github.com/mediaic/boledu-hls-course-lab_2.git), [GitHub_3](https://github.com/mediaic/boledu-hls-course-lab_3.git)|
