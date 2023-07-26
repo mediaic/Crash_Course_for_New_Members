@@ -1,4 +1,4 @@
-# 2022 新生訓練課程 (2022 Crash Courses for New Members)
+# 2023 新生訓練課程 (2023 Crash Courses for New Members)
 實驗室名單:
 [簡韶逸老師實驗室](http://media.ee.ntu.edu.tw/)
 
@@ -23,26 +23,26 @@
 ## 08/01 (二) @ 博理213
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Verilog Review and Advance|10:10-11:00|于富昇|[PPT]()|
-|Simulation & Verification|11:10-12:00|黃立洋|[PPT]()|
-|Hardware Synthesize|13:10-14:00|潘世軒|[PDF]()|
+|Verilog Review and Advance|10:10-11:00|于富昇|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_verilog review and advance.pptx)|
+|Simulation & Verification|11:10-12:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_rtl_verification.pptx)|
+|Hardware Synthesize|13:10-14:00|潘世軒|[PDF](http://media.ee.ntu.edu.tw/crash_course/2023/2023_Logic_Synthesis.pdf)|
 |Practice (RTL)|14:00-???|潘世軒|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
 
 ## 08/02 (三) @ 博理213
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Presentation Skills |10:10-11:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/HLS101_v3.pdf)|
-|Ｓoc Introduction |11:10-12:00|喻柏憲|[PPT]() |
-|High Level Synthesis |13:10-15:00|范詠為|[PDF]() |
+|Presentation Skills |10:10-11:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_how_to_present.pptx)|
+|Ｓoc Introduction |11:10-12:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_SOC_introduction.pptx) |
+|High Level Synthesis |13:10-15:00|范詠為|[PDF](http://media.ee.ntu.edu.tw/crash_course/2023/2023_HLS101_v3.pdf) |
 |Practice (HLS)|15:00-???|范詠為|[GitHub_1](https://github.com/mediaic/boledu-hls-course-lab_1.git), [GitHub_2](https://github.com/mediaic/boledu-hls-course-lab_2.git), [GitHub_3](https://github.com/mediaic/boledu-hls-course-lab_3.git)|
-|System C|19:00-???|林裕盛| |
+|System C|19:00-???|林裕盛|PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_system_verification.pptx)|
 
 ## 08/03 (四) @ 博理212
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Intro to Deep Learning|10:10-11:00|林子軒|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_Intro_DL.pptx)|
-|Training Neural Networks|11:10-12:00|陳嘉偉|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_training_tips.pptx)|
-|DLCV applications|13:10-14:00|洪愷縴|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/2022_DLCV_application.pptx)|
-|Pytorch tutorial|14:10-15:00|王辰淯|[PPT](http://media.ee.ntu.edu.tw/crash_course/2022/PyTorch_Tutorial.pptx)|
+|Intro to Deep Learning|10:10-11:00|林子軒|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_Intro_DL.pptx)|
+|Training Neural Networks|11:10-12:00|陳嘉偉|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_DL.pptx)|
+|DLCV applications|13:10-14:00|洪愷縴|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_DLCV_application.pptx)|
+|Pytorch tutorial|14:10-15:00|王辰淯|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_PyTorch_Tutorial.pptx)|
 |Practice (DL for CV)|15:10-???|王辰淯|[GitHub](https://github.com/mediaic/DL_Practice)|
 
