@@ -15,7 +15,7 @@
 |---|:---:|:---:|:---:|
 |老師開場|09:30-10:20|老師| |
 |實驗室活動介紹 & 工作分配|10:30-11:00|李奕勳|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_intro_lab.pptx)|
-|Paper Survey Skills|11:10-12:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023/paper_survey_skills.pptx)|
+|Paper Survey Skills|11:10-12:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023/2023_paper_survey_skills.pptx)|
 |Computer Vision: Filter & Feature|13:10-14:00|曾郁瑄|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_cv_filter_feature.pptx)|
 |Computer Vision: Geometry 101|14:10-15:00|陳欣妤|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_Geometry_101.pptx)|
 |Practice (OpenCV)|15:10-???|謝郁楷|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab), [PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_python_opencv_lab.pptx)|
