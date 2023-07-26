@@ -32,7 +32,7 @@
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Presentation Skills |10:10-11:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_how_to_present.pptx)|
-|Ｓoc Introduction |11:10-12:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_SOC_introduction.pptx) |
+|Ｓoc Introduction |11:10-12:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_SOC_Introduction.pptx) |
 |High Level Synthesis |13:10-15:00|范詠為|[PDF](http://media.ee.ntu.edu.tw/crash_course/2023/2023_HLS101_v3.pdf) |
 |Practice (HLS)|15:00-???|范詠為|[GitHub_1](https://github.com/mediaic/boledu-hls-course-lab_1.git), [GitHub_2](https://github.com/mediaic/boledu-hls-course-lab_2.git), [GitHub_3](https://github.com/mediaic/boledu-hls-course-lab_3.git)|
 |System C|19:00-???|林裕盛|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_system_verification.pptx)|
