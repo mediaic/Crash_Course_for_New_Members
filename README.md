@@ -43,6 +43,6 @@
 |Intro to Deep Learning|10:10-11:00|林子軒|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_Intro_DL.pptx)|
 |Training Neural Networks|11:10-12:00|陳嘉偉|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_DL.pptx)|
 |DLCV applications|13:10-14:00|洪愷縴|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_DLCV_application.pptx)|
-|Pytorch tutorial|14:10-15:00|王辰淯|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_PyTorch_Tutorial.pptx)|
+|Pytorch tutorial|14:10-15:00|王辰淯|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_Pytorch_Tutorial.pptx)|
 |Practice (DL for CV)|15:10-???|王辰淯|[GitHub](https://github.com/mediaic/DL_Practice)|
 
