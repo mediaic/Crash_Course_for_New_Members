@@ -25,7 +25,7 @@
 |---|:---:|:---:|:---:|
 |Verilog Review and Advance|10:10-11:00|于富昇|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_verilog_review_advance.pptx)|
 |Simulation & Verification|11:10-12:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2023/2023_rtl_verification.pptx)|
-|Hardware Synthesize|13:10-14:00|潘世軒|[PDF](http://media.ee.ntu.edu.tw/crash_course/2023/2023_Logic_Synthesis.pdf)|
+|Hardware Synthesize|13:30-14:00|潘世軒|[PDF](http://media.ee.ntu.edu.tw/crash_course/2023/2023_Logic_Synthesis.pdf)|
 |Practice (RTL)|14:00-???|潘世軒|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
 
 ## 08/02 (三) @ 博理213
