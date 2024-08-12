@@ -20,7 +20,7 @@
 |Presentation Skills|13:10-14:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_how_to_present.pptx)|
 |Soc Introduction|14:10-15:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_soc_introduction.pptx)|
 |Python Tutorial|15:10-17:00|喻柏憲|[GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/python_tutorial.ipynb), [GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/numpy_tutorial.ipynb), [GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/OpenCV/hello_opencv.ipynb)
-|Hardware Modeling|19:10-???|林裕盛||
+|Design and Model Large VLSI System|19:10-???|林裕盛||
 
 ## 08/13 (二) @ 博理216
 |Topic|Time|Lecturer|Link|
