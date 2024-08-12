@@ -20,7 +20,7 @@
 |Presentation Skills|13:10-14:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_how_to_present.pptx)|
 |Soc Introduction|14:10-15:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_soc_introduction.pptx)|
 |Python Tutorial|15:10-17:00|喻柏憲|[GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/python_tutorial.ipynb), [GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/numpy_tutorial.ipynb), [GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/OpenCV/hello_opencv.ipynb)
-|Design and Model Large VLSI System|19:10-???|林裕盛||
+|Design and Model Large VLSI System|19:10-???|林裕盛|[PDF](http://media.ee.ntu.edu.tw/crash_course/2024/2024_lab421.pdf)|
 
 ## 08/13 (二) @ 博理216
 |Topic|Time|Lecturer|Link|
@@ -29,7 +29,7 @@
 |Simulation & Verification|11:10-12:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_rtl_verification.pptx)|
 |Hardware Synthesize|13:30-14:00|杜冠廷|[PDF](http://media.ee.ntu.edu.tw/crash_course/2024/2024_logic_synthesis.pdf), [PDF](http://media.ee.ntu.edu.tw/crash_course/2024/2024_designware_ip.pdf) |
 |Practice (RTL)|14:00-17:00|杜冠廷|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
-|Low Power Design|17:10-18:00|李可瀚||
+|Low Power Design|17:10-18:00|李可瀚|[PDF](http://media.ee.ntu.edu.tw/crash_course/2024/2024_low_power_fundamentals_to_soc_low_power Design)|
 
 ## 08/14 (三) @ 博理216
 |Topic|Time|Lecturer|Link|
