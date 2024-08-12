@@ -29,7 +29,7 @@
 |Simulation & Verification|11:10-12:00|黃立洋|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_rtl_verification.pptx)|
 |Hardware Synthesize|13:30-14:00|杜冠廷|[PDF](http://media.ee.ntu.edu.tw/crash_course/2024/2024_logic_synthesis.pdf), [PDF](http://media.ee.ntu.edu.tw/crash_course/2024/2024_designware_ip.pdf) |
 |Practice (RTL)|14:00-17:00|杜冠廷|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
-|Low Power Design|17:10-18:00|李可瀚|[PDF](http://media.ee.ntu.edu.tw/crash_course/2024/2024_low_power_fundamentals_to_soc_low_power Design)|
+|Low Power Design|17:10-18:00|李可瀚|[PDF](http://media.ee.ntu.edu.tw/crash_course/2024/2024_low_power_fundamentals_to_soc_low_power_design.pdf)|
 
 ## 08/14 (三) @ 博理216
 |Topic|Time|Lecturer|Link|
