@@ -17,9 +17,9 @@
 |---|:---:|:---:|:---:|
 |Opening|09:30-10:20|老師| |
 |Lab Introduction|10:30-11:00|于富昇|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_intro_lab.pptx)|
-|Verilog Review and Advance|11:10-12:00|于富昇|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_verilog_review_advance.pptx)|
+|Verilog Review and Advance|11:10-12:00|于富昇|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_verilog_review_and_advance.pptx)|
 |Simulation & Verification|13:10-14:00|林玠志|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_rtl_verification.pptx)|
-|Hardware Synthesize|14:10 - 15:00|黃逸平|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_logic_synthesis.pdf), [PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_designware_ip.pdf) |
+|Hardware Synthesize|14:10 - 15:00|黃逸平|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_Logic_Synthesis.pdf), [PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_DesignWare_IP.pdf) |
 |Low Power Design|15:10 - 16:00|黃逸平|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_Low_Power_Fundamentals_to_SOC_Low_Power_Design.pdf)|
 |Practice (RTL)|16:10 - ??:??|黃逸平|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_rtl_basic_practice.pdf), [GitHub](https://github.com/mediaic/VLSI_Lab1)|
 
