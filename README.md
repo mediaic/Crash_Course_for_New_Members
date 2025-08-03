@@ -51,5 +51,5 @@
 |Training Neural Networks|11:10-12:00|黃昱翔|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_dl.pptx)|
 |DLCV applications|13:10-14:00|陳芷寧|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_dlcv_application.pptx)|
 |Pytorch tutorial|14:10-15:00|陳芷寧|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_pytorch_tutorial.pptx)|
-|Google Seminar|15:10-1:00|潘世軒| TBD |
+|Google Seminar|15:10-16:00|潘世軒| TBD |
 |Practice (DL for CV)|16:10-???|陳芷寧|[GitHub](https://github.com/mediaic/DL_Practice)|
