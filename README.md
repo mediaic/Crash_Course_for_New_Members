@@ -37,25 +37,19 @@
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Computer Vision: Filter & Feature|09:30 - 10:20|林玠志|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_cv_filter_feature.pptx)|
-<!--- TODO --->
 |Ganzin Seminar|10:30 - 11:30|塗偉志| TBD |
 |Computer Vision: Geometry 101|13:10 - 14:00|張根齊|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_geometry.pdf) |
 |High Level Synthesis|14:10 - 16:00|張根齊|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_hls_introduction_and_lab.pdf), [PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_hls101_v3.pdf) |
 |Practice (OpenCV)|16:10 - ??:??|張根齊|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab), [PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_python_opencv_lab.pptx)|
 |Practice (HLS)|16:10 - ??:??|張根齊|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_online_fpga_manual.pdf), [GitHub_1](https://github.com/bol-edu/course-lab_1.git), [GitHub_2](https://github.com/mediaic/boledu-hls-course-lab_2.git), [GitHub_3](https://github.com/mediaic/boledu-hls-course-lab_3.git)|
 
+<!--- TODO --->
 ## 08/07 (四) @ 博理217
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-<!--- TODO --->
 |Intro to Deep Learning|10:10-11:00|黃昱翔|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_intro_dl.pptx)|
-<!--- TODO --->
 |Training Neural Networks|11:10-12:00|黃昱翔|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_dl.pptx)|
-<!--- TODO --->
 |DLCV applications|13:10-14:00|陳芷寧|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_dlcv_application.pptx)|
-<!--- TODO --->
 |Pytorch tutorial|14:10-15:00|陳芷寧|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_pytorch_tutorial.pptx)|
-<!--- TODO --->
 |Google Seminar|15:10-1:00|潘世軒| TBD |
-<!--- TODO --->
 |Practice (DL for CV)|16:10-???|陳芷寧|[GitHub](https://github.com/mediaic/DL_Practice)|
