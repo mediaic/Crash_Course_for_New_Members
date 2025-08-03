@@ -21,16 +21,15 @@
 |Simulation & Verification|13:10-14:00|林玠志|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_rtl_verification.pptx)|
 |Hardware Synthesize|14:10 - 15:00|黃逸平|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_Logic_Synthesis.pdf), [PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_DesignWare_IP.pdf) |
 |Low Power Design|15:10 - 16:00|黃逸平|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_Low_Power_Fundamentals_to_SOC_Low_Power_Design.pdf)|
-|Practice (RTL)|16:10 - ??:??|黃逸平|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_rtl_basic_practice.pdf), [GitHub](https://github.com/mediaic/VLSI_Lab1)|
+|Practice (RTL)|16:10 - ??:??|黃逸平|[GitHub](https://github.com/mediaic/VLSI_Lab1)|
 
 ## 08/05 (二) @ 博理217
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
 |Paper Survey Skills|10:10-11:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_paper_survey_skills.pptx)|
 |Presentation Skills|11:10-12:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_how_to_present.pptx)|
-|Soc Introduction|13:30-14:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_soc_introduction.pptx)|
+|Soc Introduction|13:30-14:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_SOC_Introduction.pptx)|
 |Python Tutorial|14:10 - 16:00|范宇清|[GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/python_tutorial.ipynb), [GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/numpy_tutorial.ipynb), [PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_Python_Intro_and_Install_update.pdf) |
-<!--- TODO --->
 |Practice (Python)|16:10 - ??:??|范宇清| TBD |
 
 ## 08/06 (三) @ 博理217
