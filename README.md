@@ -29,7 +29,7 @@
 |Paper Survey Skills|10:10-11:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_paper_survey_skills.pptx)|
 |Presentation Skills|11:10-12:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_how_to_present.pptx)|
 |Soc Introduction|13:30-14:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_soc_introduction.pptx)|
-|Python Tutorial|14:10 - 16:00|范宇清|[GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/python_tutorial.ipynb), [GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/numpy_tutorial.ipynb), [GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/OpenCV/hello_opencv.ipynb) |
+|Python Tutorial|14:10 - 16:00|范宇清|[GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/python_tutorial.ipynb), [GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/numpy_tutorial.ipynb), [PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_Python_Intro_and_Install_update.pdf) |
 <!--- TODO --->
 |Practice (Python)|16:10 - ??:??|范宇清| TBD |
 
@@ -49,7 +49,7 @@
 |---|:---:|:---:|:---:|
 |Intro to Deep Learning|10:10-11:00|黃昱翔|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_intro_dl.pptx)|
 |Training Neural Networks|11:10-12:00|黃昱翔|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_dl.pptx)|
-|DLCV applications|13:10-14:00|陳芷寧|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_dlcv_application.pptx)|
-|Pytorch tutorial|14:10-15:00|陳芷寧|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_pytorch_tutorial.pptx)|
+|DLCV applications|13:10-14:00|陳芷寧|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_dlcv_application.pptx)|
+|Pytorch tutorial|14:10-15:00|陳芷寧|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_pytorch_tutorial.pptx)|
 |Google Seminar|15:10-16:00|潘世軒| TBD |
 |Practice (DL for CV)|16:10-???|陳芷寧|[GitHub](https://github.com/mediaic/DL_Practice)|
