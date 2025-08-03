@@ -20,7 +20,7 @@
 |Verilog Review and Advance|11:10-12:00|于富昇|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_verilog_review_advance.pptx)|
 |Simulation & Verification|13:10-14:00|林玠志|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_rtl_verification.pptx)|
 |Hardware Synthesize|14:10 - 15:00|黃逸平|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_logic_synthesis.pdf), [PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_designware_ip.pdf) |
-|Low Power Design|15:10 - 16:00|黃逸平|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_From Low Power Fundamentals to SOC Low Power Design.pdf)|
+|Low Power Design|15:10 - 16:00|黃逸平|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_Low_Power_Fundamentals_to_SOC_Low_Power_Design.pdf)|
 |Practice (RTL)|16:10 - ??:??|黃逸平|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_rtl_basic_practice.pdf), [GitHub](https://github.com/mediaic/VLSI_Lab1)|
 
 ## 08/05 (二) @ 博理217
@@ -29,15 +29,16 @@
 |Paper Survey Skills|10:10-11:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_paper_survey_skills.pptx)|
 |Presentation Skills|11:10-12:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_how_to_present.pptx)|
 |Soc Introduction|13:30-14:00|喻柏憲|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_soc_introduction.pptx)|
-|Python Tutorial|14:10 - 16:00|喻柏憲|[GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/python_tutorial.ipynb), [GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/numpy_tutorial.ipynb), [GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/OpenCV/hello_opencv.ipynb) |
-|Practice (Python)|16:10 - ??:??|范宇清|[PDF](http://media.ee.ntu.edu.tw/crash_course/2024/2024_low_power_fundamentals_to_soc_low_power_design.pdf)|
+|Python Tutorial|14:10 - 16:00|范宇清|[GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/python_tutorial.ipynb), [GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/numpy_tutorial.ipynb), [GitHub](https://github.com/mediaic/CV_Course_Tutorial/blob/master/OpenCV/hello_opencv.ipynb) |
+<!--- TODO --->
+|Practice (Python)|16:10 - ??:??|范宇清| TBD |
 
 ## 08/06 (三) @ 博理217
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Computer Vision: Filter & Feature|09:30 - 10:20|林玠志|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_cv_filter_feature.pptx)|
+|Computer Vision: Filter & Feature|09:30 - 10:20|林玠志|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_cv_filter_feature.pptx)|
 <!--- TODO --->
-|Ganzin Seminar|10:30 - 11:30|塗偉志| TBD|
+|Ganzin Seminar|10:30 - 11:30|塗偉志| TBD |
 |Computer Vision: Geometry 101|13:10 - 14:00|張根齊|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_geometry.pdf) |
 |High Level Synthesis|14:10 - 16:00|張根齊|[PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_hls_introduction_and_lab.pdf), [PDF](http://media.ee.ntu.edu.tw/crash_course/2025/2025_hls101_v3.pdf) |
 |Practice (OpenCV)|16:10 - ??:??|張根齊|[GitHub](https://github.com/mediaic/Python_OpenCV_Lab), [PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_python_opencv_lab.pptx)|
