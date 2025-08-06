@@ -46,8 +46,8 @@
 ## 08/07 (四) @ 博理217
 |Topic|Time|Lecturer|Link|
 |---|:---:|:---:|:---:|
-|Intro to Deep Learning|10:10-11:00|黃昱翔|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_intro_dl.pptx)|
-|Training Neural Networks|11:10-12:00|黃昱翔|[PPT](http://media.ee.ntu.edu.tw/crash_course/2024/2024_dl.pptx)|
+|Intro to Deep Learning|10:10-11:00|黃昱翔|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_intro_dl.pptx)|
+|Training Neural Networks|11:10-12:00|黃昱翔|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_dl.pptx)|
 |DLCV applications|13:10-14:00|陳芷寧|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_dlcv_application.pptx)|
 |Pytorch tutorial|14:10-15:00|陳芷寧|[PPT](http://media.ee.ntu.edu.tw/crash_course/2025/2025_pytorch_tutorial.pptx)|
 |Google Seminar|15:10-16:00|潘世軒| TBD |
